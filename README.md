@@ -2,6 +2,9 @@
 
 This capstone automates a customer purchase on the public Tutorialsninja OpenCart demo. It registers a unique demo account for each run, logs in through the site's login form, searches for a product, adds it to the cart, updates the quantity, and verifies the cart row.
 
+## Project Video Demonstration -
+<a>https://drive.google.com/file/d/120JnSNLgTE1FloHBAZJl65GGFRiu-8Dg/view?usp=sharing</a>
+
 ## Setup
 
 Requires Python 3.10+ and Google Chrome. Selenium Manager locates/downloads the matching driver when needed. Install dependencies into your system Python:
